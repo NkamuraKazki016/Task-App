@@ -54,6 +54,7 @@ p {
 
 #header {
     background-color: blue;
+<<<<<<< HEAD
 }
 
 
@@ -66,14 +67,29 @@ p {
     letter-spacing: -1px;
     padding-top: 9px;
     font-weight: bold;
+=======
+>>>>>>> Task-App-C
 }
 
+#logo {
+    float: left;
+    margin-right: 10px;
+    font-size: 1.7em;
+    color: #fff;
+    font-style: italic;
+    letter-spacing: -1px;
+    padding-top: 9px;
+    font-weight: bold;
+}
 #logo:hover {
   color: #fff;
   text-decoration: none;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> Task-App-C
 li .header-list {
   color: #fff !important;
   font-weight: bold;
@@ -83,12 +99,25 @@ li .header-list {
 }
 
 #dropdown-title {
+<<<<<<< HEAD
     background-color: blue;
 }
 
 li .dropdown-header {
     background-color: rgba(200,200,200,0.5);
     font-weight: bold;
+=======
+  background-color: blue;
+}
+
+li .dropdown-header {
+  background-color: rgba(200, 200, 200, 0.5);
+  font-weight: bold;
+}
+
+#top-main {
+    background-color: rgba(255,255,255,0);
+>>>>>>> Task-App-C
 }
 
 #top-main-title {
@@ -96,10 +125,13 @@ li .dropdown-header {
     font-weight: bold;
 }
 
+<<<<<<< HEAD
 #top-main {
     background-color: rgba(255,255,255,0);
 }
 
+=======
+>>>>>>> Task-App-C
 /* デバッグウインドウ */
 
 .debug_dump {
