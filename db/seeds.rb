@@ -7,6 +7,10 @@ User.create!( name: "管理者",
               admin: true)
               
 99.times do |n|
+<<<<<<< HEAD
+=======
+
+>>>>>>> Task-App-B
   name  = Faker::Name.name
   email = "sample-#{n+1}@email.com"
   password = "password"
